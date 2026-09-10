@@ -24,7 +24,6 @@ The part I hadn't seen elsewhere is the input guard: **an agent cannot write wha
 
 - **Two alert systems, same production traffic, two days.** 88.6% agreement across 35 comparable judgments. All four disagreements traced to one bug: recovery semantics lost across three system boundaries. → [Data and method](https://blog.wetalk.eu.org/ops/services/shadow-run-two-alert-systems/) (中文)
 - **13 PRs merged into [easzlab/kubeasz](https://github.com/easzlab/kubeasz)** (11k ★) — etcd backup paths, nodelocaldns upstream DNS, apiserver health checks behind ex-lb, harbor port probing.
-- **GPU training clusters** — InfiniBand, NCCL-tests, XID/DCGM monitoring. → [Field notes](https://blog.wetalk.eu.org/ops/services/gpu-cluster-ib-nccl-xid/) (中文)
 
 ---
 
