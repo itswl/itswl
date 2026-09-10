@@ -1,6 +1,6 @@
-**SRE / platform engineering → AI infra.** Shenzhen.
+**SRE / platform engineering → agent infrastructure.** Shenzhen.
 
-I build alerting infrastructure, and the rails that let AI agents touch production without being trusted.
+I build alerting systems, and the rails that let AI agents touch production without being trusted.
 
 ---
 
